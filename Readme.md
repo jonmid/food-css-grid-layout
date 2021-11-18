@@ -8,7 +8,7 @@ Abrir el archivo `index.html` en el navegador.
 
 ## 🔖 Resultado Final
 
-Live example [??](??)
+Live example [https://jonmid.github.io/food-css-grid-layout/](https://jonmid.github.io/food-css-grid-layout/)
 
 ![](/screenshot.png?raw=true 'Screenshot')
 
